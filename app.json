@@ -7,7 +7,7 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "+254740704963",
       "required": true
     },  
 
@@ -22,11 +22,11 @@
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "underrated528",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
+      "description": "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",
       "required": true
     }   
 },
